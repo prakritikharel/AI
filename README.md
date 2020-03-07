@@ -16,7 +16,7 @@ Every time, a mouse makes a move, the cat makes a move. The mouse's moves are pr
 There are 5 implementations: 
 1. BFS
 2. DFS
-3. A* with 3 heuristics descibes below. 
+3. A* with 3 heuristics descibed below. 
 
 
 My state space is a double array of 0 and the chars (H, C, M), H represents the cheese, C represents the cat and M represents the mouse.
