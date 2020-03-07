@@ -826,7 +826,4 @@ def main():
 
 main()
 
-'''things i want to  tackle before demo 
-1. fix UI ( use pyplot, map 2d array to grid)
-'''
 
